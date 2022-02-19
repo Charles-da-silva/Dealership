@@ -1,0 +1,16 @@
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.exe
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.deps.json
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.runtimeconfig.json
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.runtimeconfig.dev.json
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.dll
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\ref\Dealership.dll
+C:\workspace\Dealership\Dealership\bin\Debug\net5.0\Dealership.pdb
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.csproj.AssemblyReference.cache
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.AssemblyInfoInputs.cache
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.AssemblyInfo.cs
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.csproj.CoreCompileInputs.cache
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.dll
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\ref\Dealership.dll
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.pdb
+C:\workspace\Dealership\Dealership\obj\Debug\net5.0\Dealership.genruntimeconfig.cache
